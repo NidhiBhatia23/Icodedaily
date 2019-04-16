@@ -1,9 +1,9 @@
-# To compile : javac easyProb1.java
-# To run     : java easyProb1 
-# Go for it! 
-# Time complexity : O(n)
-# Space complexity : O(n)
-# Output : Pair is :7 10
+// To compile : javac easyProb5.java
+// To run     : java easyProb1 
+// Go for it! 
+// Time complexity : O(n)
+// Space complexity : O(n)
+// Output : Pair is :7 10
  
 import java.io.*;
 import java.util.*;
